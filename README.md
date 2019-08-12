@@ -45,3 +45,8 @@ Put the tablet on 2 of "Group i".
 ## LICENCE
 
 MIT License.
+
+## Donation
+
+[Author's wish list by Amazon(Japanese)](https://www.amazon.jp/hz/wishlist/ls/5BAWD0LZ89V9?ref_=wl_share)
+
