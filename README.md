@@ -42,6 +42,14 @@ This is a cardboard stand for 7 inch tablets such as Amazon Fire 7.
 
 Put the tablet on 2 of "Group i".
 
+## Contribution
+
+1. Fork it ( http://github.com/hiroshikuze/cardboard-stand-for-7-inch-tablet/fork )
+2. Create your feature branch (git checkout -b my-new-feature)
+3. Commit your changes (git commit -am 'Add some feature')
+4. Push to the branch (git push origin my-new-feature)
+5. Create new Pull Request
+
 ## LICENCE
 
 MIT License.
