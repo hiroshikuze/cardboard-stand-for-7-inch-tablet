@@ -60,6 +60,10 @@ MIT License.
 
 ## 💖 Support my work
 
+If you find this project useful, please give it a star!
+
+[![GitHub Stars](https://img.shields.io/github/stars/hiroshikuze/cardboard-stand-for-7-inch-tablet?style=for-the-badge&logo=github&label=%E2%AD%90%20Star%20this%20repo&color=gold)](https://github.com/hiroshikuze/cardboard-stand-for-7-inch-tablet/stargazers)
+
 If you'd like to support my projects, please consider becoming a sponsor!
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/hiroshikuze)
